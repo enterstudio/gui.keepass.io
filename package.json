@@ -13,13 +13,13 @@
     "url": "https://github.com/chadly/gui.keepass.io.git"
   },
   "dependencies": {
-    "express": "~3.4.8",
-    "glob": "~3.2.8",
+    "express": "~4.15.5",
+    "glob": "~5.0.15",
     "keepass.io": "~0.2.8",
     "nimble": "0.0.2",
     "vash": "~0.7.6-3",
     "q": "~1.0.0",
-    "googleapis": "~0.4.7"
+    "googleapis": "~12.1.0"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
